@@ -1,9 +1,9 @@
 [book]
-authors = ["sgoudham"]
-language = "en"
+authors = ["ben"]
+language = "zh"
 multilingual = false
 src = "src"
-title = "ReadMe Example"
+title = "超级短线交易攻略"
 
 # Enables the `mdbook-template` preprocessor
 [preprocessor.template]
