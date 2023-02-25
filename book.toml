@@ -5,5 +5,10 @@ multilingual = false
 src = "src"
 title = "超级短线交易攻略"
 
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/<owner>/<repo>/edit/master/{path}"
+git-repository-icon = "fa-github"
+
 # Enables the `mdbook-template` preprocessor
 [preprocessor.template]
