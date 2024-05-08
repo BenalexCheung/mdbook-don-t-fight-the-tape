@@ -38,3 +38,4 @@
 -----------
 
 [日内交易功法](intraday-trading-skills.md)
+[DMI趋势判断法（胜率80%）](dmi-trend-judgment.md)
