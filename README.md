@@ -1,15 +1,21 @@
 # README Example
 
-Generated Files:
+(Generated Files)[https://rust-lang.github.io/mdBook/guide/creating.html]
 
-`rust.html`
+## Initializing a book
 
-![rust](website/rust.png)
+```
+mdbook init my-first-book
 
-`go.html`
+cd my-first-book
 
-![go](website/go.png)
+mdbook serve --open
 
-`friends/hazel.html`
+```
 
-![friends/hazel](website/friends-hazel.png)
+## Publishing a book
+
+```
+mdbook build
+
+```

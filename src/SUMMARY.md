@@ -1,49 +1,40 @@
 # Summary
 
-- [第一章：交易前的准备](rust.md)
-  - [建立自己的交易计划](friends/hazel.md)
-  <!-- 确定交易品种、交易时间和交易目标等，建立自己的交易计划，以避免决策的主观性和情绪性。 -->
-  - [建立风险控制策略](friends/hazel.md)
-  <!-- 在进行交易前，应该制定适当的风险控制策略，包括设定止损位、确定头寸大小等，以最小化交易风险。 -->
-  - [学习技术分析](friends/hazel.md)
-  <!-- 技术分析是短线交易中常用的分析方法，学习并掌握常用的技术指标和图表形态可以帮助投资者更准确地把握市场走势。 -->
-- [第二章：选股策略](go.md)
-  - [选择热门板块](friends/hazel.md)
-  <!-- 选取市场热门板块，关注业绩优良的龙头企业。 -->
-  - [选择高流动性股票](friends/hazel.md)
-  <!-- 选择市场流动性好的股票，以便在交易时获得更好的买卖价格。 -->
-  - [选择有利好消息的股票](friends/hazel.md)
-  <!-- 关注公司财务状况、政策法规等相关消息，选择有利好消息的股票进行交易。 -->
-- [第三章：买入策略](go.md)
-  - [趋势跟随策略](friends/hazel.md)
-  <!-- 选择市场趋势明显的股票进行交易，根据趋势的变化进行买卖操作。 -->
-  - [盘口监测策略](friends/hazel.md)
-  <!-- 密切关注盘口数据，根据买卖盘的情况进行交易。 -->
-  - [反转交易策略](friends/hazel.md)
-  <!-- 在股票价格出现反转信号时，进行相应的买入操作。 -->
-- [第四章：卖出策略](go.md)
-  - [止盈策略](friends/hazel.md)
-  <!-- 设定止盈位，在股票价格达到预设止盈位时卖出股票。 -->
-  - [止损策略](friends/hazel.md)
-  <!-- 设定止损位，在股票价格达到预设止损位时卖出股票，以减少亏损。 -->
-  - [盘口监测策略](friends/hazel.md)
-  <!-- 密切关注盘口数据，根据买卖盘的情况进行卖出操作。 -->
-- [第五章：心态管理策略](go.md)
-  - [避免情绪化决策](friends/hazel.md)
-  <!-- 在交易中要避免情绪化决策，如贪婪、恐惧、焦虑等，以保持冷静分析市场走势。 -->
-  - [管理风险](friends/hazel.md)
-  <!-- 在交易中要控制风险，避免过度杠杆、头寸过大等情况，以避免交易损失过大。 -->
-  - [坚持纪律](friends/hazel.md)
-  <!-- 在交易中要坚持自己的交易计划和策略，不轻易更改计划，以保持交易纪律。 -->
-- [第六章：心态调整策略](go.md)
-  - [如何控制情绪，在交易中保持冷静](friends/hazel.md)
-  - [应对交易中的不利情况：学会承受和反思](friends/hazel.md)
-  - [如何保持理性思考，避免贪婪和恐惧影响决策](friends/hazel.md)
-- [第七章：交易平台选择](go.md)
-  - [常用交易平台的比较和分析](friends/hazel.md)
-  - [如何选择适合自己的交易平台](friends/hazel.md)
-  - [平台费用和服务水平的重要性](friends/hazel.md)
-- [第八章：实战经验分享](go.md)
-  - [成功交易者的故事：经验和教训](friends/hazel.md)
-  - [如何将理论应用于实际交易中](friends/hazel.md)
-  - [从实战中学习并改善自己的交易策略和技巧](friends/hazel.md)
+[前言](introduction.md)
+
+- [第一章：交易前的准备](preparation.md)
+  - [建立自己的交易计划](pre-trading/trading-plan.md)
+  - [建立风险控制策略](pre-trading/risk-control-strategy.md)
+  - [学习技术分析](pre-trading/technical-analysis.md)
+- [第二章：选股策略](stock-strategy.md)
+  - [选择热门板块](stock/choose-popular-stock-sector.md)
+  - [选择高流动性股票](stock/choose-high-liquid-stocks.md)
+  - [选择有利好消息的股票](stock/choose-stocks-with-good-news.md)
+- [第三章：买入策略](buying-Strategy.md)
+  - [趋势跟随策略](buying/trend-following-strategy.md)
+  - [反转交易策略](buying/reverse-trading-strategy.md)
+  - [盘口监测策略](buying/handicap-monitoring-strategy.md)
+- [第四章：卖出策略](selling-strategy.md)
+  - [止盈策略](selling/stop-profit-strategy.md)
+  - [止损策略](selling/stop-loss-strategy.md)
+  - [盘口监测策略](selling/handicap-monitoring-strategy.md)
+- [第五章：心态管理](mentality-management.md)
+  - [避免情绪化决策](mentality/avoid-emotional-decision-making.md)
+  - [管理风险](mentality/manage-risk.md)
+  - [坚持纪律](mentality/adhere-to-discipline.md)
+- [第六章：心态调整策略](mentality-adjustment.md)
+  - [如何控制情绪，在交易中保持冷静](mentality/control-emotions.md)
+  - [应对交易中的不利情况：学会承受和反思](mentality/learn-to-endure-and-reflect.md)
+  - [如何保持理性思考，避免贪婪和恐惧影响决策](mentality/keep-thinking-rationally.md)
+- [第七章：交易平台选择](trading-platform.md)
+  - [常用交易平台的比较和分析](platforms/comparison-and-analysis.md)
+  - [如何选择适合自己的交易平台](platforms/choose-the-right-trading-platform.md)
+  - [平台费用和服务水平的重要性](platforms/fees-and-service-levels.md)
+- [第八章：实战经验分享](practical-experience.md)
+  - [成功交易者的故事：经验和教训](experience/the-story-of-a-successful-trader.md)
+  - [如何将理论应用于实际交易中](experience/how-to-apply-theory-to-actual-transactions.md)
+  - [从实战中学习并改善自己的交易策略和技巧](experience/learn-and-improve-your-trading-strategies.md)
+
+-----------
+
+[日内交易功法](intraday-trading-skills.md)
