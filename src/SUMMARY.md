@@ -10,7 +10,7 @@
   - [选择热门板块](stock/choose-popular-stock-sector.md)
   - [选择高流动性股票](stock/choose-high-liquid-stocks.md)
   - [选择有利好消息的股票](stock/choose-stocks-with-good-news.md)
-- [第三章：买卖策略](buying-Strategy.md)
+- [第三章：交易策略](buying-Strategy.md)
   - [趋势跟随策略](buying/trend-following-strategy.md)
   - [反转交易策略](buying/reverse-trading-strategy.md)
   - [止盈止损策略](selling/Stop-profit-and-stop-loss.md)
