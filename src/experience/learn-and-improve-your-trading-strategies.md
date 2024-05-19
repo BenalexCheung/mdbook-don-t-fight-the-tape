@@ -1,1 +1,2 @@
-# 从实战中学习并改善自己的交易策略和技巧
+
+<embed id="pdfPlayer" src="The-Psychology-of-Investing.pdf" type="application/pdf" width="220%" height="1200" >

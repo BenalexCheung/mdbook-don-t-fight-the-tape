@@ -1,1 +1,2 @@
-# 如何将理论应用于实际交易中
+
+<embed id="pdfPlayer" src="Yangjia-Method.pdf" type="application/pdf" width="120%" height="1200" >
