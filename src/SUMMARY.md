@@ -34,3 +34,4 @@
 [十大交易铁律](top10-iron-laws.md)
 [日内交易功法](intraday-trading-skills.md)
 [DMI趋势判断法（胜率80%）](dmi-trend-judgment.md)
+[墨守心法](Mind-mindful-methods.md)
